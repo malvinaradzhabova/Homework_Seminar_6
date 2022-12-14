@@ -20,6 +20,7 @@ public static void Main(string[]args)
  
 Console.WriteLine($"Числа, введенные пользователем,которые больше 0 = {count}");
 }
+
 } */
 
 
